@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+numpy
+pillow
+plotly
+transformers
+torch
+sentencepiece
+sacremoses
+groq
+gtts
+faiss-cpu
+sentence-transformers
